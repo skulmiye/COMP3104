@@ -1,0 +1,12 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Sabirin Kulmiye | 101363605",
+  "license": "ISC"
+}
