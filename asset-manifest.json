@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skulmiye/COMP3104.git/static/css/main.073c9b0a.css",
+    "main.js": "/skulmiye/COMP3104.git/static/js/main.53a4e258.js",
+    "static/js/787.71cfefd0.chunk.js": "/skulmiye/COMP3104.git/static/js/787.71cfefd0.chunk.js",
+    "static/media/logo.svg": "/skulmiye/COMP3104.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/skulmiye/COMP3104.git/index.html",
+    "main.073c9b0a.css.map": "/skulmiye/COMP3104.git/static/css/main.073c9b0a.css.map",
+    "main.53a4e258.js.map": "/skulmiye/COMP3104.git/static/js/main.53a4e258.js.map",
+    "787.71cfefd0.chunk.js.map": "/skulmiye/COMP3104.git/static/js/787.71cfefd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.53a4e258.js"
+  ]
+}
