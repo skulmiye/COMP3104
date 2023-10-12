@@ -24,9 +24,9 @@
   "author": "Sabirin Kulmiye | 101363605",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skulmiye/COMP3104.git/issues"
+    "url": "https://github.com/skulmiye/COMP3104.git"
   },
-  "homepage": "https://github.com/skulmiye/COMP3104.git#readme",
+  "homepage": "https://github.com/skulmiye/COMP3104.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
